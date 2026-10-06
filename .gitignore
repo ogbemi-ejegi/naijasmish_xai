@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+env/
+
+# Secrets
+.env
+
+# Datasets and large files to be downloaded later
+*.csv
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
